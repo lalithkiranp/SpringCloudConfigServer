@@ -1,1 +1,1 @@
-message : hello from config file
+message : "hello from config file"
